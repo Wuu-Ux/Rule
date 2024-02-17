@@ -128,5 +128,6 @@ payload:
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby.lcloud.wiki
   - DOMAIN-SUFFIX,play.charontv.com
+  - DOMAIN-SUFFIX,peachmv.me
   - IP-CIDR,102.223.180.108/32
   - DOMAIN-KEYWORD,embyvip
